@@ -1,2 +1,2 @@
 # Proto
-Setting up GIT for rhe first time
+Setting up GIT for the first time
